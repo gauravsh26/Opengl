@@ -19,7 +19,7 @@
 
 #define Thischange	12345
 
-#define Thischange	12345
+
 
 
 #define WIN_WIDTH	512
